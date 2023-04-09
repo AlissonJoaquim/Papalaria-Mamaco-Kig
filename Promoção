@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+  <head>
+    
+    <title>Promoção da Mamaco King</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="site02.css" rel="stylesheet" type="text/css">
+
+  </head>
+    <body>
+
+      <table>
+        <td colspan="5"><h3>Mamaco King</h3></td>        
+        <tr>
+        <td>Foto do item</td>
+        <td>Nome do item</td>
+        <td>Quantidade em estoque</td>
+        <td>Preço Normal</td>
+        <td>Preço promocional (desconto)</td>    
+        </tr>
+
+        <tr>
+            <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihkmMhtMjYzXL4FQKEW0VafMuVBqDUqbtWQ&usqp=CAU" alt="Imagem caderno" width="100">  </td>
+            <td> Mause Logitech MX</td>
+            <td> 400 und.</td>
+            <td> R$650,00 </td>
+            <td> R$535,90 </td> 
+        </tr>
+        
+        <tr>
+            <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6C5KdmDw-3RM2LuQ8yjcyj1joODNNfozs-Q&usqp=CAU" alt="Imagem borracha" width="100">  </td>
+            <td> Teclado Logitech MX Keys</td>
+            <td> 250 und.</td>
+            <td> R$635,70 </td>
+            <td> R$547,85 </td> 
+        </tr>  
+
+        <tr>
+            <td> <img src="https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/peripherals/carrying-cases/backpacks/alienware/gm1720pm/spi/ng/dell-gaming-backpack-17-gm1720pm-details-hero-500-ng_v1.jpg?hei=402&qtl=90,0&op_usm=1.75,0.3,2,0&resMode=sharp&pscan=auto" alt="Imagem Mochila Dell" width="100">  </td>
+            <td> Mochila Para Notebook Dell Gaming 17 </td>
+            <td>  200 und.</td>
+            <td> R$318,00 </td>
+            <td> R$268,00 </td> 
+        </tr>  
+
+        <tr>
+            <td> <img src="data:image/jpeg;base64,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" alt="Imagem caderno" width="100">  </td>
+            <td> Cadeira XT Racer </td>
+            <td> 300 und.</td>
+            <td> R$1.119,90 </td>
+            <td> R$897,36 </td> 
+        </tr>  
+
+        <tr>
+            <td><img src="https://images.kabum.com.br/produtos/fotos/369922/notebook-asus-intel-core-i7-1165g7-8gb-ram-256gb-ssd-tela-15-6-windows-11-home-preto-x513ea-ej3010w_1660310514_g.jpg" alt="Imagem " width="100"></td>
+            <td> Notebook </td>
+            <td>  100 Und. </td>
+            <td> R$5.750,90 </td>
+            <td> R$4.152,26 </td> 
+        </tr>
+      </table>
+
+      <table><br>
+        <td><a href="site.html" target="_blank"><button>Pagina Inicial</button></a><br></td>
+        <td><h3> Para ficar por dentro das promocões Se cadastra na</h3></td>
+        <td><a href="cadastro.html" target="_blank"><button type="submit"> Mamaco Kig</button></a></td>
+      </table>
+
+  </body>
+</html>
