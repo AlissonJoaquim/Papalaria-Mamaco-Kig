@@ -1,0 +1,22 @@
+body {    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIA_DLcJUq-vVxc63DBV0BIjoEKW8LwI143EzbnCmjXYdLt0fbCYKrLM4r_xXC9YQpEqA&usqp=CAU);
+}
+
+h1, h2, td, tr {
+    color: snow;
+    border: 2px solid snow;
+}
+h1, td {
+    text-align: center;  
+}
+
+table {
+      width: 50% !important;
+      margin: auto;
+      background-color: #2f3542;
+}
+
+label, CPF, input, form {
+    text-align: center;
+   
+}
