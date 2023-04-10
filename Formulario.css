@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://cdn.xl.pt/notasemdia/uploads/2021/08/GettyImages-687802820-2000x1125.jpg);
+}
+
+h1, h2 {
+    text-align: center;
+      margin: auto; 
+}
+
+.Web {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 10;
+}
+
+input, button{
+    border-radius: 10px;
+    border-style: none;
+}
