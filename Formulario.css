@@ -7,7 +7,7 @@ h1, h2 {
       margin: auto; 
 }
 
-.Web {
+.Web, a {
     display: flex;
     flex-direction: column;
     justify-content: center;
