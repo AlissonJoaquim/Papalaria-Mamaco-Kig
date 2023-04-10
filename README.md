@@ -1,2 +1,0 @@
-# Papalaria-Mamaco-Kig
-#Site
